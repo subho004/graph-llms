@@ -1,0 +1,10 @@
+langchain==1.2.14
+langchain-community==0.4.1
+langchain-groq==1.1.2
+python-dotenv==1.2.2
+markitdown[all]
+langchain-experimental==0.4.1
+langchain-neo4j==0.9.0
+
+
+
