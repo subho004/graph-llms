@@ -160,7 +160,7 @@ def main():
 
     chain = create_chain(graph, llm)
     print("Chain created. To run a query, call `chain.invoke({'query': '...'} )`.")
-    response=chain.invoke({"query": "What is 'beard'?"})
+    response=chain.invoke({"query": "What is 'Horses'?"})
     print("Response to query:", response)
 
 
